@@ -5,4 +5,4 @@ all of this will us the os and arg parse modules
 2. ~ls~ 
 3. touch
 4. ~mkdir~
-5. 
+5. ~cd~
